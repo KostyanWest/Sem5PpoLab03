@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Музыкальный плеер</string>
+    <string name="shuffle">Перемешать все</string>
+    <string name="action_play_all">Играть все</string>
+</resources>
